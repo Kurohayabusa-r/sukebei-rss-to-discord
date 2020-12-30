@@ -1,3 +1,4 @@
 # sukebei-rss-to-discord
-Sukebei.nyaa RSS to Discord webhook
-Something I made to post superelmo's VN uploads on my discord server
+### sukebei.nyaa RSS to Discord webhook
+<br>
+Something I made to post [superelmo](https://sukebei.nyaa.si/user/superelmo)'s VN uploads on my discord server
